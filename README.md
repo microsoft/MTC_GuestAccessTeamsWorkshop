@@ -11,7 +11,7 @@ This workshop leverages the following services:
 
 At the end of this workshop you will have a working proof-of-concept application that allows you to submit a request for a Microsoft Team that follows a provisioning workflow with Guest Access on or off on a per-team basis
 
-# Setup
+## Setup
 This repo is organized into a few folders
 * 00-Setup: Folder containing setup documentation for this workshop
 * 01-AAD App Registration: Folder containing lab documentation for Module 1 to create an Azure Active Directory Application Registration
