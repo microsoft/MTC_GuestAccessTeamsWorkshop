@@ -13,11 +13,11 @@ At the end of this workshop you will have a working proof-of-concept application
 
 ## Setup
 This repo is organized into a few folders
-* [00-Setup]('https://github.com/microsoft/MTC_GuestAccessTeamsWorkshop/tree/main/00-Setup'): Folder containing setup documentation for this workshop
-* ['01-AAD App Registration']('https://github.com/microsoft/MTC_GuestAccessTeamsWorkshop/tree/main/01-AAD App Registration'): Folder containing lab documentation for Module 1 to create an Azure Active Directory Application Registration
-* ['02-SharePoint TeamRequests List']('https://github.com/microsoft/MTC_GuestAccessTeamsWorkshop/tree/main/02-SharePoint TeamRequests List'): Folder containing lab documentation for Module 2 to set up the SharePoint Online list to hold out Team requests
-* ['03-Power Automate and Microsoft Graph']('https://github.com/microsoft/MTC_GuestAccessTeamsWorkshop/tree/main/03-Power Automate and Microsoft Graph'): Folder containing lab documentation for Module 3 to create a Flow to conduct our workflow/business logic when a request for a Team is submitted (added to the SharePoint list)
-* ['04-Power Apps']('https://github.com/microsoft/MTC_GuestAccessTeamsWorkshop/tree/main/04-Power Apps'): Folder containing lab documentation for Module 4 to create a Power App that will be the entry point to request a Team. This will be exposed as an app in Microsoft Teams
+* [00-Setup](<https://github.com/microsoft/MTC_GuestAccessTeamsWorkshop/tree/main/00-Setup>): Folder containing setup documentation for this workshop
+* [01-AAD App Registration](<https://github.com/microsoft/MTC_GuestAccessTeamsWorkshop/tree/main/01-AAD App Registration>): Folder containing lab documentation for Module 1 to create an Azure Active Directory Application Registration
+* [02-SharePoint TeamRequests List](<https://github.com/microsoft/MTC_GuestAccessTeamsWorkshop/tree/main/02-SharePoint TeamRequests List>): Folder containing lab documentation for Module 2 to set up the SharePoint Online list to hold out Team requests
+* [03-Power Automate and Microsoft Graph](<https://github.com/microsoft/MTC_GuestAccessTeamsWorkshop/tree/main/03-Power Automate and Microsoft Graph>): Folder containing lab documentation for Module 3 to create a Flow to conduct our workflow/business logic when a request for a Team is submitted (added to the SharePoint list)
+* [04-Power Apps](<https://github.com/microsoft/MTC_GuestAccessTeamsWorkshop/tree/main/04-Power Apps>): Folder containing lab documentation for Module 4 to create a Power App that will be the entry point to request a Team. This will be exposed as an app in Microsoft Teams
 
 ## Contributing
 
