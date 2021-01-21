@@ -9,7 +9,7 @@ This workshop leverages the following services:
 * Power Apps
 * Microsoft Teams
 
-At the end of this workshop you will have a working proof-of-concept application that allows you to submit a request for a Microsoft Team that follows a provisioning workflow with Guest Access on or off on a per-team basis
+At the end of this workshop you will have a working proof-of-concept application that allows you to submit a request for a Microsoft Team that follows a provisioning workflow with Guest Access on or off on a per-team basis.
 
 ## Setup
 This repo is organized into a few folders
