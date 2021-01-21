@@ -1,5 +1,5 @@
 <Elements>
-  <SPOnlineDetails Url="https://teamswsiqvia.sharepoint.com/sites/teamsprovisioning9" UserName="admin@teamswsiqvia.onmicrosoft.com" Password="!D3m0T3n@nt!" />
+  <SPOnlineDetails Url="" UserName="" Password="" />
   <Fields>
     <!-- Request Site Columns -->
     <!-- Description -->
